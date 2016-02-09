@@ -1,1 +1,3 @@
-Learn more at mjackzhou.github.io
+Jack Zhou's webpage
+
+Learn more at (mjackzhou.github.io)
